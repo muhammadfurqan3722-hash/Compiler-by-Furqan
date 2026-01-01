@@ -1,0 +1,8 @@
+Token Type           Count
+-------------------------
+INT                  4
+IDENTIFIER           5
+SYMBOL               8
+OPERATOR             3
+INTEGER_LITERAL      3
+RETURN               1

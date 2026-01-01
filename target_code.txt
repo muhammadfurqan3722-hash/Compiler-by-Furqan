@@ -1,0 +1,3 @@
+LOAD R1, 5
+LOAD R2, 10
+LOAD R3, 15

@@ -1,0 +1,5 @@
+Name	Type	Scope	Value	DeclaredAt	LastUpdated
+----------------------------------------------------------------------
+x	int	main	5	3	3
+y	int	main	10	4	4
+z	int	main	15	5	5
